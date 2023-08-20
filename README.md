@@ -9,8 +9,8 @@
 
 <div align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=ferdylazuardi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdylazuardi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ferdylazuardi&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdylazuardi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ferdylazuardi&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  /> -->
 </div>
 
 <br clear="both">
@@ -32,7 +32,6 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
 </div>
 
 <br clear="both">
