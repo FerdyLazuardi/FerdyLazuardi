@@ -13,13 +13,9 @@
   <img src="https://streak-stats.demolab.com?user=ferdylazuardi&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h6 align="left">Languages & Tools</h6>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -39,14 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h6 align="left">Connect With Me</h6>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ferdy10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
