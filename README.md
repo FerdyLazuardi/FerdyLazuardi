@@ -1,4 +1,4 @@
-### Hi there 👋, you can call me Ferdy
+### Hi 👋
 
 <br clear="both">
 
