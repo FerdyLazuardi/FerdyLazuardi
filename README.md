@@ -1,6 +1,3 @@
-### Hi 👋
-
-<br clear="both">
 
 <p align="left">Learning to become a fullstack web developer 💻.</p>
 - 📚 Currently learning React
